@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/activity_main"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#923642">
+
+    <EditText
+        android:id="@+id/textView"
+        android:text="how old is hamdi??chose one below."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+    </EditText>
+<RadioGroup
+    android:id="@+id/radioGroup"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+    <RadioButton
+        android:id="@+id/a"
+        android:layout_width="81dp"
+        android:layout_height="wrap_content"
+        android:text="20" >
+    </RadioButton>
+
+    <RadioButton
+        android:id="@+id/b"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="30">
+    </RadioButton>
+
+    <RadioButton
+        android:id="@+id/c"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="40">
+    </RadioButton>
+    <RadioButton
+        android:id="@+id/d"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="50">
+    </RadioButton>
+
+</RadioGroup>
+
+    <Button
+        android:id="@+id/sure"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="确定"
+        android:textStyle="bold">
+        </Button>
+    <Button
+        android:id="@+id/cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="取消"
+        android:textStyle="bold">
+        </Button>
+
+
+</LinearLayout>
