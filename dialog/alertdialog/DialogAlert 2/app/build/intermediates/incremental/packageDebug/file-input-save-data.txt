@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Fri Apr 14 15:40:22 CST 2017
+1.base=F\:\\git program\\android teacher\\08 Dialogue\\DialogAlert 2\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=F\:\\git program\\android teacher\\08 Dialogue\\DialogAlert 2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+1.file=F\:\\git program\\android teacher\\08 Dialogue\\DialogAlert 2\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.set=ANDROID_RESOURCE
+2.base=F\:\\git program\\android teacher\\08 Dialogue\\DialogAlert 2\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=DEX
+2.set=ANDROID_RESOURCE
+2.file=F\:\\git program\\android teacher\\08 Dialogue\\DialogAlert 2\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=F\:\\git program\\android teacher\\08 Dialogue\\DialogAlert 2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+0.set=ANDROID_RESOURCE
+0.base=F\:\\git program\\android teacher\\08 Dialogue\\DialogAlert 2\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=F\:\\git program\\android teacher\\08 Dialogue\\DialogAlert 2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+0.file=F\:\\git program\\android teacher\\08 Dialogue\\DialogAlert 2\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+4.base=F\:\\git program\\android teacher\\08 Dialogue\\DialogAlert 2\\app\\build\\intermediates\\res\\resources-debug.ap_
